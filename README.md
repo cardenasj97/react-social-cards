@@ -13,4 +13,4 @@ In order to download all the project dependencies and be able to see the project
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-![image](https://drive.google.com/uc?export=view&id=1YUF3oUIBsfY9J50wC4DIHNpvz1ASIHSx)
+![image](sample_photo.png)
